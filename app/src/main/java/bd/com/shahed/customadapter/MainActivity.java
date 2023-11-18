@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        textView = findViewById(R.id.text_view);
         listView = findViewById(R.id.list_view);
 
         countryList = new ArrayList<>();

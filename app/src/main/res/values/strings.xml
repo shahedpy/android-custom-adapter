@@ -1,4 +1,3 @@
 <resources>
-    <string name="app_name">CustomAdapter</string>
-    <string name="countries">Countries</string>
+    <string name="app_name">Countries</string>
 </resources>
